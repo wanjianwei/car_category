@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  camera_example
+
+  Created by jway on 2017/2/24.
+  Copyright © 2017年 jway. All rights reserved.
+*/
+
+"back" = "返回";
+"Cancel" = "取消";
+"PHOTO" = "拍照";
+"Retake" = "重拍";
+"Use Photo" = "使用";
